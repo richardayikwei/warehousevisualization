@@ -1,4 +1,10 @@
-# React + TypeScript + Vite
+# Ware house inventory visualization
+A visualization of a warehouse inventory using google sheets API as a backend.
+
+## Techologies
+React, TypeScript, Chart.js and Tailwind CSS.
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
