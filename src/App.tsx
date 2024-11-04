@@ -27,7 +27,7 @@ function App() {
         console.error(e);
       }
     }
-    fetchInventory();
+    // fetchInventory();
   }, []);
 
   console.log(inventory);
